@@ -1,4 +1,0 @@
-Hello Royce Chua!
-isn't this amazing !
-that we can create and write on the text files
-using Python
