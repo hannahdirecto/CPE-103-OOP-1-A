@@ -1,4 +1,3 @@
-from __future__ import print_function
 fname = input('Enter the file name: ')
 try:
     fhand = open(fname)
