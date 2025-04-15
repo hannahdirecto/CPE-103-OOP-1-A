@@ -1,4 +1,4 @@
-stuff = 'Hello/nWorld!'
+stuff = 'Hello\nWorld!'
 stuff
 print(stuff)
 
